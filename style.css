@@ -1,0 +1,40 @@
+body {
+
+    background-color: pink;
+    
+    }
+    
+    
+    
+    #header {
+    
+    width: 80%;
+    font-size: 25px;
+    }
+    
+    #things {
+    
+    color: red;
+    
+    }
+    
+    
+    .container {
+    
+    color: red;
+    
+    }
+    
+    #camera {
+    
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+    
+    }
+
+
+.heading1 {
+    width: 30%;
+}
+    
